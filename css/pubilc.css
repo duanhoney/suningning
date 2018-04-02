@@ -1,0 +1,12 @@
+*{
+	margin: 0;    /* body */
+	padding: 0;
+	text-decoration: none; /*  a标签 */
+	font-style: normal;
+	list-style: none; /* li标签 */
+}
+h1,h2,h3,h4{
+	font-weight:normal;
+}
+
+
